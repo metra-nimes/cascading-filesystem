@@ -1,7 +1,7 @@
 {
-    "name": "koseven/cascading-filesystem",
+    "name": "metra/cascading-filesystem",
     "description": "A virtual filesystem formed from merging multiple directories",
     "license": "BSD-3-Clause",
-    "autoload": {"psr-4": {"Kohana\\CascadingFilesystem\\": "src"}},
+    "autoload": {"psr-4": {"CascadingFilesystem\\": "src"}},
     "minimum-stability": "dev"
 }
