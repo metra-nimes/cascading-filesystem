@@ -1,4 +1,0 @@
-suites:
-    kohana_suite:
-        namespace: Kohana\CascadingFilesystem
-        psr4_prefix: Kohana\CascadingFilesystem

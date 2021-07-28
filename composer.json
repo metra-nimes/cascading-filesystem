@@ -1,14 +1,7 @@
 {
-    "name": "kohana/cascading-filesystem",
+    "name": "koseven/cascading-filesystem",
     "description": "A virtual filesystem formed from merging multiple directories",
     "license": "BSD-3-Clause",
-    "require": {
-        "doctrine/cache": "~1.0"
-    },
-    "require-dev": {
-        "phpspec/phpspec": "~2.0",
-        "mikey179/vfsStream": "1.4.0",
-        "squizlabs/php_codesniffer": "~2.0"
-    },
-    "autoload": {"psr-4": {"Kohana\\CascadingFilesystem\\": "src"}}
+    "autoload": {"psr-4": {"Kohana\\CascadingFilesystem\\": "src"}},
+    "minimum-stability": "dev"
 }

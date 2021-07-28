@@ -8,7 +8,7 @@ Add this package as a dependency in your project's composer.json configuration:
 
 ```json
 require: {
-    "kohana/cascading-filesystem": "~1.0"
+    "koseven/cascading-filesystem": "~1.0"
 }
 ```
 
